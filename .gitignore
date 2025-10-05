@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+.idea/
